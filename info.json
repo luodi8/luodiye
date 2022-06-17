@@ -1,0 +1,100 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://qiudizhi.neocities.org/",
+            "path": "index.html",
+            "saved": true,
+            "size": 8256,
+            "children": [
+                {
+                    "url": "https://qiudizhi.neocities.org/dizhi.png",
+                    "path": "img/dizhi.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://static.addtoany.com/menu/page.js",
+                    "path": "js/page.js",
+                    "saved": true,
+                    "size": 73442,
+                    "children": []
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=UA-215052515-4",
+                    "saved": false
+                },
+                {
+                    "url": "https://qiudizhi.neocities.org/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "qiudizhi-neocities-org-ioo14i5r",
+    "info": {
+        "remark": [],
+        "title": "落地页-地址最新发布页",
+        "domain": "qiudizhi.neocities.org",
+        "origin": "https://qiudizhi.neocities.org",
+        "ip": "198.51.233.2",
+        "main": "index.html",
+        "url": "https://qiudizhi.neocities.org/",
+        "totalSize": "81.7 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://qiudizhi.neocities.org/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://qiudizhi.neocities.org/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Sun, 12 Jun 2022 10:51:09 GMT",
+                "content-type": "text/html",
+                "content-length": "9168",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "last-modified": "Sun, 17 Apr 2022 12:19:12 GMT",
+                "etag": "\"625c05c0-23d0\"",
+                "server": "neocities",
+                "x-ipfs-path": "/ipns/qiudizhi.neocities.org",
+                "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+                "content-security-policy": "upgrade-insecure-requests; default-src 'unsafe-inline' 'unsafe-eval' 'self' data: blob: *",
+                "x-neocities-cdn": "cdn-sgp",
+                "upgrade-insecure-requests": "1",
+                "x-cached": "HIT",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-06-12T10:51:08.849Z",
+            "end": "2022-06-12T10:51:09.791Z"
+        }
+    },
+    "options": {
+        "url": "https://qiudizhi.neocities.org/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
